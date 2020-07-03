@@ -2,7 +2,7 @@
 
 > 🎈 🙇‍♀️🙇‍♂️
 
-### Requirements
+## 📝 Requirements
 
 - You need to implement a clone of our pricing page. Whatever you want to use, is up to you. You can choose the frameworks, libs and  tools and tech stack you want.
 
@@ -22,11 +22,11 @@
 
 > 📦 When you are done, just send an email to [noah@getballon.com](noah@getballon.com) and [nacho@getballon.com](nacho@getballon.com). You can send a zip folder with your code, uploaded to google drive or push it to a git repo.
 
-## Design
+## 💅 Design
 
 ![balloon marketing page pricing design](./design.png)
 
-## Data
+## 💾 Data
 
 The `data.json` contains an `Array` of objects. Each element in the array represents a pricing plan.
 
@@ -36,6 +36,6 @@ Other properties you will find relevant of each plans are:
 - `metadata.limit`: Indicates the limit amount of participant for the plan
 - `amount`: Indicates the plan's pricing (the unit is cents)
 
-## Assets
+## 🌉 Assets
 
 Inside `assets` directory, you will find some image assets that could be useful for design implementation.
